@@ -1,4 +1,4 @@
-# Gitkub
+# GitKub
 
 Add `Ready for Review` label to newly opened Pull Requests.
 
