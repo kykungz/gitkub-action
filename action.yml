@@ -1,0 +1,10 @@
+name: 'Pull Request Labeler'
+description: 'Add labels to new pull requests'
+author: kykungz
+inputs:
+  github-token:
+    description: '<GITHUB_TOKEN>'
+    required: true
+runs:
+  using: 'node12'
+  main: 'lib/main.js'
